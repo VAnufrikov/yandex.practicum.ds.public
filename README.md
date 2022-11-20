@@ -30,6 +30,7 @@ Link to the course: `https://practicum.yandex.ru/profile/data-scientist/`
 `https://socprofile.com/v.anufrikov`
 
 ![qr_contacts.png](../yandex.practicum.ds.public/qr_contacts.png)
+
 ***
 
 
